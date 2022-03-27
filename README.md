@@ -1,6 +1,6 @@
 # Starzplay
 
-#This project required apache mvn, java 8 and oracle database 12c
+#This project required apache mvn, java 8 and oracle database 12c.
 #execute scripts.sql file with system user in oracle.
 #Open project using any IDE and run com.demo.starzplay.Application class.
 
