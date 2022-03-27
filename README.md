@@ -38,8 +38,8 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.DerbyDialect
     
 #uncomment below lines.
 
-<!--		<dependency>-->
-<!--			<groupId>org.apache.derby</groupId>-->
-<!--			<artifactId>derby</artifactId>-->
-<!--			<scope>runtime</scope>-->
-<!--		</dependency>-->
+		<dependency>
+			<groupId>org.apache.derby</groupId>
+			<artifactId>derby</artifactId>
+			<scope>runtime</scope>
+		</dependency>
